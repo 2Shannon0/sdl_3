@@ -1,0 +1,7 @@
+.vscode/
+bin/
+obj/
+pg_data/
+node_modules/
+*.dll
+*.exe

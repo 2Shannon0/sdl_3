@@ -46,7 +46,9 @@ INSERT INTO Authors (first_name, last_name, birth_date)
 VALUES
 ('Leo', 'Tolstoy', '1828-09-09'),
 ('Fyodor', 'Dostoevsky', '1821-11-11'),
-('Jane', 'Austen', '1775-12-16');
+('Jane', 'Austen', '1775-12-16'),
+('Alex', 'Tolstoy', '1883-01-10');
+
 
 -- Пример вставки данных в таблицу Books
 INSERT INTO Books (title, genre, published_date, author_id)
